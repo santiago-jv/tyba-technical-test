@@ -1,6 +1,6 @@
 # Prueba Técnica - Tyba
 
-Este proyecto está desarrollado con NestJS y utiliza PostgreSQL como base de datos. La arquitectura del proyecto sigue el patrón Hexagonal y se han implementado algunos patrones de diseño como el Factory.
+Este proyecto está desarrollado con NestJS y utiliza PostgreSQL como base de datos. La arquitectura del proyecto sigue la arquitectura Hexagonal y se han implementado algunos patrones de diseño como el Factory.
 
 ## Requisitos
 
